@@ -24,7 +24,7 @@
 A Salon Management System where mens can get a perfect look.
 
 
-## Built with HTML, Javascript and Openweather API.
+## Built with HTML, Javascript.
 
 ## Author
 
